@@ -1,4 +1,5 @@
-![logo](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+<img width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
+
 <h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer skilled in MERN stack.</h3>
 # 💫 About Me:
