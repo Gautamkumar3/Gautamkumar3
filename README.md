@@ -19,6 +19,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gautamkumar3&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gautamkumar3&theme=github_dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gautamkumar3&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
@@ -27,5 +28,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gautamkumar3&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
